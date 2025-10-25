@@ -62,28 +62,8 @@
 
 ---
 
-## Быстрый старт (как повторить демо локально)
-
-```bash
-# 1) Клонировать любой проект
-git clone https://github.com/username/ai-brand-avatar && cd ai-brand-avatar
-
-# 2) Создать окружение и зависимости
-python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-
-# 3) Заполнить .env (ключи/токены)
-cp -n .env.example .env && nano .env
-
-# 4) Запуск (пример для бота)
-python bot.py
-```
-
----
-
 ### Контакты
 
-* Telegram: **@your\_handle**
-* Email: **[you@example.com](mailto:you@example.com)**
+* Telegram: **@excile2**
+* Email: **[adrazbor@mail.ru](mailto:adrazbor@mail.ru)**
 
-<sub>Баннер/превью: 1920×480 (2×: 3840×960). Миниатюры: \~720×420 (2×: 1440×840). Держи ассеты в этом же репо для стабильной загрузки.</sub>
